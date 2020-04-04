@@ -32,5 +32,5 @@ sudo python mat_pix.py -fa 10 5 0 0 255 # Fade 5 times to blue with speed 10.
 sudo python mat_pix.py -ra 1 20 # Random 20 times with speed 1.
 sudo python mat_pix.py -po 20 2 # Police twice with speed 20.
 
-sudo python mat_pix.py -h # For more informations
+sudo python mat_pix.py -h # To get more informations
 ```
