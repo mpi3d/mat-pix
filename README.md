@@ -1,4 +1,4 @@
-# Mat_Pix
+# Mat Pix
 
 Program in python to control a [8 leds neopixel](https://www.adafruit.com/product/1426).
 
