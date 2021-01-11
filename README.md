@@ -7,8 +7,8 @@ Program in python to control a [8 leds neopixel](https://www.adafruit.com/produc
 # Install
 
 ``` sh
-git clone https://github.com/MPi3D/Mat_Pix.git
-cd Mat_Pix
+git clone https://github.com/mpi3d/mat-pix.git
+cd mat-pix
 chmod +x install.sh
 sudo install.sh
 ```
